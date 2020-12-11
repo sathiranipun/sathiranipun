@@ -30,7 +30,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sathiranipun" height="30"
             width="40" /></a>
 </p>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
