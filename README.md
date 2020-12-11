@@ -7,10 +7,10 @@
         alt="sathiranipun" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=sathiranipun" alt="sathiranipun" style="padding: 10px 15px; "/></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=sathiranipun" alt="sathiranipun" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img
-            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/" target="blank"><img
+            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🌱 I’m currently learning **React and Angular**
 
@@ -30,7 +30,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sathiranipun" height="30"
             width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
@@ -84,14 +84,17 @@
             alt="typescript" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
         target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
+<br>
 
-<p><img align="left"
+<p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sathiranipun&show_icons=true&locale=en&layout=compact"
         alt="sathiranipun" /></p>
 
-<p>&nbsp;<img align="center"
+<p align="center">&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=sathiranipun&show_icons=true&locale=en"
         alt="sathiranipun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiranipun&" alt="sathiranipun" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiranipun&"
+        alt="sathiranipun" />
 </p>
+<br>
