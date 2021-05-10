@@ -87,14 +87,13 @@
 <br>
 
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sathiranipun&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sathiranipun&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
         alt="sathiranipun" /></p>
 
-<p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sathiranipun&show_icons=true&locale=en"
-        alt="sathiranipun" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiranipun&"
-        alt="sathiranipun" />
-</p>
 <br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathiranipun&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"sathiranipun" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiranipun&theme=chartreuse-dark" alt="sathiranipun" /></p>
+
